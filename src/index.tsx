@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import * as lib_test_ye from 'lib_test_ye'
+import {MyCounter} from 'lib_test_ye'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>
     <div style={{ width: '600px', margin: '20px auto' }}>
-      <h1>my-react-typescript-package</h1>
+      <h1>lib_test_ye</h1>
       <h2>This is the demonstration of how to create github-pages</h2>
       <a href='https://github.com/gapon2401/my-react-typescript-package'>
         <img
@@ -17,12 +17,12 @@ root.render(
       </a>
       <div>
         <h3>Default counter</h3>
-        <lib_test_ye.MyCounter />
+        <MyCounter />
       </div>
       <hr />
       <div>
         <h3>Counter with predefined value</h3>
-        <lib_test_ye.MyCounter value={5} />
+        <MyCounter value={5} />
       </div>
     </div>
   </React.StrictMode>,
