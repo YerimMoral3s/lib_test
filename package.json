@@ -1,6 +1,6 @@
 {
-  "name": "lib_test",
-  "version": "1.0.0",
+  "name": "@y3rim/lib_test",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
