@@ -15,9 +15,6 @@
     "prepare": "npm run build",
     "prepublishOnly": "npm test && npm run prettier && npm run lint"
   },
-  "repository": {
-    
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
