@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T16:28:19.050Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ROeZPhqYMUVyHBTRy8Ia" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T16:31:55.983Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="K1KtOh2nrdOf6O4NqYaK" version="21.3.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1026" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,20 +25,26 @@
         <mxCell id="O20OBYRXj00SmxRfMEH7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O20OBYRXj00SmxRfMEH7-5" target="O20OBYRXj00SmxRfMEH7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O20OBYRXj00SmxRfMEH7-5" value="Tiene stock" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="O20OBYRXj00SmxRfMEH7-5" value="Tiene stock?" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O20OBYRXj00SmxRfMEH7-6" value="Realiza el envio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O20OBYRXj00SmxRfMEH7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O20OBYRXj00SmxRfMEH7-7" target="O20OBYRXj00SmxRfMEH7-11">
+        <mxCell id="O20OBYRXj00SmxRfMEH7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="O20OBYRXj00SmxRfMEH7-7" target="O20OBYRXj00SmxRfMEH7-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O20OBYRXj00SmxRfMEH7-7" value="Genera una orden&amp;nbsp;&lt;br&gt;a compras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O20OBYRXj00SmxRfMEH7-11" value="Ventas empieza el&lt;br&gt;proceso de compra del material" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="O20OBYRXj00SmxRfMEH7-13" value="Realizar una orden de compra" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O20OBYRXj00SmxRfMEH7-22" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Ventas genera una orden de compra&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="930" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O20OBYRXj00SmxRfMEH7-24" value="Proveedores" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
